@@ -50,7 +50,10 @@ If you wish to return to the 3 standard resolutions (1920x1080, 1600x900, 1280x7
 ## Additional Information
 
 For users who want to customize the display scaling for 4:3 resolutions, access the AMD Software: Adrenalin Edition control panel. Navigate to `Gaming --> Display` and set the `Scaling Mode` to `Full panel`. This will stretch `4:3` resolutions to fit the `16:9` panel.
+
 As the pic below:
+
+![Descrizione dell'immagine](https://github.com/Special-Niewbie/Asus-Rog-Ally-Ultimate-Resolutions/blob/main/pics/AMD%20Software%20Adrenalin%20Edition.png)
 
 Feel free to explore and enjoy the expanded resolution options for your Asus Rog Ally!
 
