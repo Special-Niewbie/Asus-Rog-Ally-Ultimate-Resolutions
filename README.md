@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to Rog Ally Ultimate Resolutions, a package of 12 additional resolutions for your Asus Rog Ally, along with the 3 standard resolutions. These registry keys were created to address the need for more resolution options, particularly for retro gaming. They resolve issues with games that may not adapt well to the Rog Ally's 3 standard resolutions `(1920x1080, 1600x900, 1280x720)`.
+Welcome to Rog Ally Ultimate Resolutions, a package of `12` additional resolutions for your Asus Rog Ally, along with the 3 standard resolutions for a total of `15` Resolutions. These registry keys were created to address the need for more resolution options, particularly for retro gaming. They resolve issues with games that may not adapt well to the Rog Ally's 3 standard resolutions `(1920x1080, 1600x900, 1280x720)`.
 
 In total, you now have the option to choose from 30 settings, including `120Hz` and `60Hz`. The resolutions include:
 
