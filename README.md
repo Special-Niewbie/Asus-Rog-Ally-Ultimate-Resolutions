@@ -46,6 +46,16 @@ For users who want to customize the display scaling for 4:3 resolutions, access 
 
 Feel free to explore and enjoy the expanded resolution options for your Asus Rog Ally!
 
+## Donation
 
+PayPal:
+ 
+[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/CrisDonate)
+
+------------------------------------------------------------------------------
+
+Ko-fi:
+ 
+[![Donate with Ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/special_niewbie)
 
 [![Github all releases](https://img.shields.io/github/downloads/Special-Niewbie/Asus-Rog-Ally-Ultimate-Resolutions/total.svg)](https://github.com/Special-Niewbie/Asus-Rog-Ally-Ultimate-Resolutions/releases)
