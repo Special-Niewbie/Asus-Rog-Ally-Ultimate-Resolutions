@@ -33,8 +33,11 @@ If you need access to the missing resolutions, navigate to `Settings --> System 
 ## Installation Guide
 
 ### 1. Installing Rog Ally Ultimate Resolutions
+To install the 15 resolutions, download the system registry key from the "Releases" section.
 
-To install the 15 resolutions, download the system registry key named `Rog_Ally_Ultimate_Resolutions_v1.0.reg` and confirm the installation to activate the resolutions. After installation, restart your system.
+[![Download Rog Ally Ultimate Resolutions](https://img.shields.io/github/downloads/Special-Niewbie/Asus-Rog-Ally-Ultimate-Resolutions/total.svg)](https://github.com/Special-Niewbie/Asus-Rog-Ally-Ultimate-Resolutions/releases/latest)
+
+Unzip the downloaded file, run `Rog_Ally_Ultimate_Resolutions_v1.0.reg`, and confirm the installation to activate the resolutions. After installation, restart your system.
 
 ### 2. Reverting to Standard Resolutions
 
