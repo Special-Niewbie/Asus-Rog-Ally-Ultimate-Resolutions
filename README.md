@@ -24,10 +24,9 @@ In total, you now have the option to choose from 30 settings, including `120Hz` 
 
 As these are custom resolutions, Windows will display only 10 of them in `Settings --> System --> Display --> Display resolution`. As the pic below:
 
-
+![Descrizione dell'immagine](https://github.com/Special-Niewbie/Asus-Rog-Ally-Ultimate-Resolutions/raw/main/pics/List%20All%20Modes.png)
 
 If you need access to the missing resolutions, navigate to `Settings --> System --> Display --> Advanced display`, click on `Display adapter properties for Display 1` and press the `List All Modes` button. As the pic below:
-
 
 
 ## Installation Guide
