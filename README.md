@@ -22,7 +22,7 @@ In total, you now have the option to choose from 30 settings, including `120Hz` 
 - 640x480
 - 320x240 `(Note: This resolution is included but currently cannot be selected; it may not appear as an option in games for now.)`
 
-As these are custom resolutions, Windows will display only 10 of them in `Settings --> System --> Display --> Display resolution`. As the pic below:
+As these are custom resolutions, Windows will display only `10` of them in `Settings --> System --> Display --> Display resolution`. As the pic below:
 
 ![Descrizione dell'immagine](https://github.com/Special-Niewbie/Asus-Rog-Ally-Ultimate-Resolutions/blob/main/pics/Windows%20Display%20Settings.png)
 
