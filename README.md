@@ -49,6 +49,7 @@ For users who want to customize the display scaling for 4:3 resolutions, access 
 
 Feel free to explore and enjoy the expanded resolution options for your Asus Rog Ally!
 
+Inspired by [![[AllyPal](https://github.com/AllyPal/Rog-Ally-Custom-Resolutions).
 
 ## Donation
 
