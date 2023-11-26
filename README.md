@@ -57,4 +57,4 @@ Ko-fi:
  
 [![Donate with Ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/special_niewbie)
 
-[![Github all releases](https://img.shields.io/github/downloads/Special-Niewbie/Asus-Rog-Ally-Ultimate-Resolutions/total.svg)](https://github.com/Special-Niewbie/Asus-Rog-Ally-Ultimate-Resolutions/releases)
+                                                                                                                                                                              [![Github all releases](https://img.shields.io/github/downloads/Special-Niewbie/Asus-Rog-Ally-Ultimate-Resolutions/total.svg)](https://github.com/Special-Niewbie/Asus-Rog-Ally-Ultimate-Resolutions/releases)
