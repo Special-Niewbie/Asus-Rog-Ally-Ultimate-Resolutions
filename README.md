@@ -6,21 +6,21 @@ Welcome to Rog Ally Ultimate Resolutions, a package of `12` additional resolutio
 
 In total, you now have the option to choose from 30 settings, including `120Hz` and `60Hz`. The resolutions include:
 
-- 1920x1080
-- 1760x990
-- 1680x1050
-- 1600x900
-- 1366x768
-- 1280x1024
-- 1280x720
-- 1128x634
-- 1024x768
-- 1024x576
-- 960x540
-- 854x480
-- 800x600
-- 640x480
-- 320x240 `(Note: This resolution is included but currently cannot be selected; it may not appear as an option in games for now.)`
+- 1920x1080 (16:9)
+- 1760x990 (16:9)
+- 1680x1050 (16:10)
+- 1600x900 (16:9)
+- 1366x768 (16:9)
+- 1280x1024 (5:4)
+- 1280x720 (16:9)
+- 1128x634 (16:9)
+- 1024x768 (4:3)
+- 1024x576 (16:9)
+- 960x540 (16:9)
+- 854x480 (16:9)
+- 800x600 (4:3)
+- 640x480 (4:3)
+- 320x240 (4:3) `(Note: This resolution is included but currently cannot be selected; it may not appear as an option in games for now.)`
 
 As these are custom resolutions, Windows will display only `10` of them in `Settings --> System --> Display --> Display resolution`. 
 
